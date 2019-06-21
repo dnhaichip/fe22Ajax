@@ -105,4 +105,9 @@ $(document).ready(function(){
     }
  
 
+    function ThemNguoiDung(){
+        console.log("hello world2");
+        
+    }
+
 })
