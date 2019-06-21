@@ -105,7 +105,7 @@ $(document).ready(function(){
     }
  
 
-    function ThemNguoiDung(){
+    function themNguoiDung(){
         console.log("hello world2");
         
     }
