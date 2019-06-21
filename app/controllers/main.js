@@ -104,7 +104,7 @@ $(document).ready(function(){
         $('#tblDanhSachNguoiDung').html(content);
     }
     //làm ra chức năng trên git
-    function ThemNguoiDung(){
+    function themNguoiDung(){
         console.log("Hello World");
         
     }
