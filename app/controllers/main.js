@@ -103,6 +103,10 @@ $(document).ready(function(){
     
         $('#tblDanhSachNguoiDung').html(content);
     }
- 
+    //làm ra chức năng trên git
+    function ThemNguoiDung(){
+        console.log("Hello World");
+        
+    }
 
 })
